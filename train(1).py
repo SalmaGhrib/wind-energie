@@ -1,5 +1,5 @@
 """Regression : prediction des kWh produits en une heure par une eolienne fictive.
-# test de reentraianament 2
+# test de reentraianament 262
 python train.py --train-data donnees_A/train.csv --val-data donnees_A/val.csv
 """
 import argparse
